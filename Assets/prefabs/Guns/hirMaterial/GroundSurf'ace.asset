@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 485531f4533165548b1f57fcb6a1d893, type: 3}
+  m_Name: GroundSurf'ace
+  m_EditorClassIdentifier: 
+  impactTypeEffects:
+  - _impactType: {fileID: 11400000, guid: 7a26fe951ba98c34a9ea12345fb7b9f6, type: 2}
+    _surfaceEffect: {fileID: 11400000, guid: 207aeb3641afa1144931715a80cb5c99, type: 2}
